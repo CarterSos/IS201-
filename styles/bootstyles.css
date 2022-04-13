@@ -1,0 +1,64 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: right;
+  }
+  
+li {
+    float: right;
+    
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: #111;
+    color:white;
+  }
+
+  .giantBlueHead{
+    background-color:darkslategray;
+    padding-right: 170px;
+  }
+
+  .sillyGoose{
+    background-color: aquamarine;
+  }
+
+  .bigfoot{
+    color:white;
+    background-color: darkslategray;
+    height:100px;
+  }
+
+  .tab{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .picture{
+    float: left;
+    height:300px;
+    width: 500px;
+  }
+
+  .tableauPlaceholder{
+    width: 750px;
+  }
+
+  .whitelink{
+    color:aliceblue;
+  }
+
+  .bluelink{
+    color:blue;
+}

@@ -1,0 +1,53 @@
+p{
+    font-weight:bold;
+}
+h2{
+    text-decoration:solid;
+}
+.resume{
+    color:black;
+    border: 1px dashed black;
+    width: 80%;
+}
+
+body{
+    background-color:azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.contact{
+    text-align: center;
+    border: 1px solid black;
+    width: 80%;
+    font-style: italic;
+    font-size: large;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+
+.pictures{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-items:center;
+}
+
+.picture {
+    margin: 5px;
+}
+
+.center{
+    text-align: center;
+}
+
+.bluelink{
+    color:blue;
+}
